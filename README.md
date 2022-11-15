@@ -41,8 +41,3 @@
 * https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch
 
 
-
-### 微信技术交流、问题反馈：
-
-<img src="https://enpei-md.oss-cn-hangzhou.aliyuncs.com/imgIMG_5862.JPG?x-oss-process=style/wp" style="width:200px;" />
-
